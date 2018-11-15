@@ -1,0 +1,3 @@
+# ProyectColorGame
+Game color rgb izi
+ It is just an rgb game in which you have to guess the color give to you on the top of the page...
